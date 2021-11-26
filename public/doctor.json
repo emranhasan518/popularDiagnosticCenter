@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1, 
+        "name": "Dr. Benjamin Franklin",
+        "consultantSector" : "Heart Surgery",
+        "appointmentCost":"$100",
+        "Description":"Heart surgery can correct problems with the heart if other treatments haven't worked or can't be used. The most common type of heart surgery for adults is coronary artery bypass grafting (CABG). During CABG, a healthy artery or vein from the body is connected, or grafted, to a blocked coronary (heart) artery.",
+        "img": "https://i.ibb.co/5L8d1JD/doctor6.jpg"
+    },
+    {
+        "id": 2, 
+        "name": "Dr. Prasa Flex",
+        "consultantSector" : "ENT " ,
+        "appointmentCost":"$79.99",
+        "Description":"Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+        "img": "https://i.ibb.co/Xypf772/doctor4.jpg"
+    },
+    {
+        "id": 3, 
+        "name": "Dr. Jonathon James",
+        "consultantSector" : "Gastroe Liver",
+        "appointmentCost":"$50",
+        "Description":"The gastroenterology service provides assessment of a full variety of digestive conditions including indigestion, heartburn, irritable bowel, celiac disease, evaluation of abnormal liver function tests, viral hepatitis and all chronic liver conditions.",
+        "img": "https://i.ibb.co/Hg4Vzjw/doctor5.jpg"
+    },
+    {
+        "id": 4, 
+        "name": "Dr. Gelena Somez",
+        "consultantSector" : "Kidney Dialysis" ,
+        "appointmentCost":"$95",
+        "Description":"Hemodialysis is the most common type of dialysis. This process uses an artificial kidney (hemodialyzer) to remove waste and extra fluid from the blood. The blood is removed from the body and filtered through the artificial kidney. The filtered blood is then returned to the body with the help of a dialysis machine.",
+        "img": "https://i.ibb.co/bzb6td6/doctor2.jpg"
+    },
+    {
+        "id": 5, 
+        "name": "Dr. Kabir Rayhan",
+        "consultantSector" : "Cancer",
+        "appointmentCost":"$100",
+        "Description":"Cancer is a disease in which some of the body's cells grow uncontrollably and spread to other parts of the body. Cancer can start almost anywhere in the human body, which is made up of trillions of cells.",
+        "img": "https://i.ibb.co/HH0pBH1/doctor1.jpg"
+    },
+    {
+        "id": 6, 
+        "name": "Dr. Jhonkar Mahbub",
+        "consultantSector" : "Psychotherapist",
+        "appointmentCost":"$60",
+        "Description":"psychotherapist or therapist is a trained professional who assists people with various mental health conditions such as stress, depression, anxiety, insomnia, addiction, bipolar disorder, negative behavior patterns, bipolar disorder, schizophrenia and other debilitating feelings.",
+        "img": "https://i.ibb.co/GFBW9nL/doctor3.jpg"
+    }
+]
